@@ -175,3 +175,15 @@ h2{
   .subnav:hover .subnav-content {
     display: block;
   }
+
+  form{
+    display: flex;
+    margin-left: 500px;
+    margin: 50px;
+    width: 250px;
+    height: 250px;
+    flex-direction: column;
+  }
+  p {
+    font-size: 25px;
+  }
