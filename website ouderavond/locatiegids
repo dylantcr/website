@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>locatiegids</title>
+</head>
+<br>
+<body>
+    <img src="/website ouderavond/images/1595423300211.jpg" alt="tcr logo" id="logo">
+    <div class="header">
+        <div class="inner_header">
+            <div class="header_container">
+                <h1>locatiegids</h1>
+               
+            </div>
+        </div>
+    </div>
+    <main>
+        <br><br><br><br><br>
+
+<!-- The navigation menu -->
+<div class="navbar">
+  <a href="home.html">Home</a>
+  <a href="achtergrondinformatie.html">Achtergrond informatie</a>
+  <a href="canvas.html">Canvas</a>
+  <a href="eduarte.html">Eduarte</a>
+  <a href="locatiegids.html">locatiegids</a>
+  <a href="opleiding.html">opleiding</a>
+  <a href="opleidingwijzer.html">opleidingswijzer</a>
+  <a href="software.html">software</a>
+  <div class="subnav">
+    <button class="subnavbtn">contact <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="contact.html">Contact</a>
+      <a href="dylan.html">Dylan</a>
+      <a href="yoshua.html">Joshua</a>
+      <a href="noureldeen.html">Noureldeen</a>
+    </div>
+
+  </div>
+  <div class="subnav">
+  </div>
+</div>  
+
+
+<div class="block1">
+    <h1>locatiegids</h1>
+</div>
+    <br><br><br><br><br><br><br><br><br><br><br>
+    <img src="/website ouderavond/images/janligthartstraat.jpg" class="center">
+    <br>
+    
+    <div class="littleblock">
+        <h1>locatiegids</h1>
+    </div>
+    <br>
+    <br>
+    <p>
+        Het TCR heeft 4 verschillende locaties, waarvan elke varieërt in opleidingen;<br><br><br>
+        Janligthartstraat: Op deze locatie heb je de opleidingen, Op gebied van Bouw, IT & Online en Lab & Research.<br><br>
+        Schiedamseweg: Op deze locatie heb je de opleidingen, Maakindustrie & Onderhoud, Bouwen & Wonen en IT & Online. <br><br>
+        Prins Alexanderlaan: Op deze locatie heb je de opleidingen, Bouwen & Wonen, Maakindustrie & Onderhoud en IT & Online.<br><br>
+        Scheepsbouwweg: Op deze locatie kan je opleidingen Mobiliteit volgen.<br><br>
+        Meeste opleidingen hebben zowel BOL als BBL duren ongeveer 3 jaar<br>
+    
+
+    </p>
+    <br><br><br><br><br><br><br><br>
+    <br><br><br><br>
+    </div>
+    
+    </main>
+    <footer style="background-color: lightgrey;">
+        <h3>Ouderavond 2023</h3>
+    </footer>
+</body>
+</html>
