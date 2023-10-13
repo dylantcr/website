@@ -4,15 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>locatiegids</title>
+    <title>yoshua</title>
 </head>
 <br>
 <body>
-    
+    <img src="/website ouderavond/images/1595423300211.jpg" alt="tcr logo" id="logo">
     <div class="header">
         <div class="inner_header">
             <div class="header_container">
-                <h1>locatiegids</h1>
+                <h1>Voorstellen Joshua</h1>
                
             </div>
         </div>
@@ -46,28 +46,33 @@
 
 
 <div class="block1">
-    <h1>locatiegids</h1>
+    <h1>Voorstellen</h1>
 </div>
     <br><br><br><br><br><br><br><br><br><br><br>
-<<<<<<< HEAD
-    <img src="/website ouderavond/images/locatietcr.jpg" class="center">
-=======
     <img src="/website ouderavond/images/janligthartstraat.jpg" class="center">
->>>>>>> ce5ea60771de076e898142b6f22e396a9d093cf6
     <br>
     
     <div class="littleblock">
-        <h1>locatiegids</h1>
+        <h1>Wie ben ik?</h1>
     </div>
     <br>
     <br>
     <p>
-        Het TCR heeft 4 verschillende locaties, waarvan elke varieërt in opleidingen;<br><br><br>
-        Janligthartstraat: Op deze locatie heb je de opleidingen, Op gebied van Bouw, IT & Online en Lab & Research.<br><br>
-        Schiedamseweg: Op deze locatie heb je de opleidingen, Maakindustrie & Onderhoud, Bouwen & Wonen en IT & Online. <br><br>
-        Prins Alexanderlaan: Op deze locatie heb je de opleidingen, Bouwen & Wonen, Maakindustrie & Onderhoud en IT & Online.<br><br>
-        Scheepsbouwweg: Op deze locatie kan je opleidingen Mobiliteit volgen.<br><br>
-        Meeste opleidingen hebben zowel BOL als BBL duren ongeveer 3 jaar<br>
+        Mijn naam is Joshua Seltenrijch, ik ben 17 jaar;<br><br><br>
+        Mijn hobby's zijn; gamen en muziek luisteren<br><br>
+        Mijn overige vrijetijd besteed ik aan school of bij m'n bijbaan<br><br>
+    </div>
+    <br>
+    <div class="block1">
+    <h1>Waarom deze opleiding</h1>
+    <br><br><br>
+    <p>
+        Vorig jaar deed ik de opleiding System and Devices hier.
+        Deze vond ik niet zo bevallen en koos ik er voor om deze opleiding te doen.
+    </p>
+    </div>
+    <br><br><br><br><br><br><br><br>
+    <br><br><br><br>
     
 
     </p>
